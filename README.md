@@ -7,6 +7,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
+# 🏗 Solution Architecture
+
+![Bakery Attendance Pipeline](bakery_attendance_pipeline_3.png)
+
+---
 ## 📖 Overview
 
 The **Bakery Attendance Analytics Dashboard** is an end-to-end Business Intelligence solution developed to automate employee attendance processing for a local bakery.
@@ -83,10 +88,6 @@ A complete attendance automation pipeline was developed to:
 | GitHub     | Portfolio             |
 
 ---
-
-# 🏗 Solution Architecture
-
-![Bakery Attendance Pipeline](bakery_attendance_pipeline_3.png)
 
 ### Pipeline Workflow
 
