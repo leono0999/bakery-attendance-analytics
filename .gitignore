@@ -1,0 +1,13 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data (already excluded per README, kept here for enforcement)
+data/raw/
+data/processed/
+data/reports/

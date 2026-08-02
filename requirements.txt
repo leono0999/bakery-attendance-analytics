@@ -1,7 +1,5 @@
 pandas
-pathlib
 sqlalchemy
 psycopg2-binary
-shutil
-datetime
-openyxl
+openpyxl
+python-dotenv
