@@ -18,7 +18,7 @@ In addition to business analytics, the solution automatically generates personal
 ---
 
 # 📸 Dashboard Preview
-![alt text](01_executive_summary-3.png)
+![Executive Summary](dashboard/screenshots/01_executive_summary.png)
 ---
 
 # 🎯 Business Problem
@@ -86,7 +86,7 @@ A complete attendance automation pipeline was developed to:
 
 # 🏗 Solution Architecture
 
-![alt text](bakery_attendance_pipeline_2.png)
+![Bakery Attendance Pipeline](bakery_attendance_pipeline_3.png)
 
 ### Pipeline Workflow
 
@@ -266,22 +266,21 @@ Interactive employee report including:
 
 ## Executive Summary
 
-![alt text](01_executive_summary-4.png)
+![Executive Summary](dashboard/screenshots/01_executive_summary.png)
 
 ## Employee Performance
 
-![alt text](02_employee_performance-2.png)
+![Employee Performance](dashboard/screenshots/02_employee_performance.png)
 ## Attendance & Punctuality
 
-![alt text](03_attendance_punctuality-2.png)
-
+![Attendance Punctuality](dashboard/screenshots/03_attendance_punctuality.png)
 ## Monthly Trends
 
-![alt text](04_monthly_trends-2.png)
+![Monthly Trends](dashboard/screenshots/04_monthly_trends.png)
 
 ## Employee Details
 
-![alt text](05_employee_details-2.png)
+![Employee Details](dashboard/screenshots/05_employee_details.png)
 
 ---
 
