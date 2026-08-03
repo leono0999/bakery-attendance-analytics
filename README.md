@@ -187,7 +187,7 @@ Five pages, each built for a different audience:
 
 ## 📈 Impact & Status
 
-**In production use.** This isn't a demo — the bakery's accountant has used this pipeline for real monthly attendance reporting since [MONTH/YEAR]. It replaced a manual process that previously took approximately **[X hours] per month** of manual Excel work; the automated pipeline now completes the same reporting in [X minutes/seconds].
+**In production use.** This isn't a demo — the bakery's accountant has used this pipeline for real monthly attendance reporting since [MONTH/YEAR]. It replaced a manual process that previously took approximately **30 per month** of manual Excel work; the automated pipeline now completes the same reporting in 30 seconds.
 
 ## 🧭 Lessons Learned
 
