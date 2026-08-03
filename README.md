@@ -185,6 +185,14 @@ Five pages, each built for a different audience:
 
 ---
 
+## 📈 Impact & Status
+
+**In production use.** This isn't a demo — the bakery's accountant has used this pipeline for real monthly attendance reporting since [MONTH/YEAR]. It replaced a manual process that previously took approximately **[X hours] per month** of manual Excel work; the automated pipeline now completes the same reporting in [X minutes/seconds].
+
+## 🧭 Lessons Learned
+
+The pipeline was originally packaged as a standalone `.exe`/`.bat` file for easier handoff to a non-technical end user, but it failed to run on the accountant's machine — her computer runs a 32-bit architecture, while the executable was built on my 64-bit machine, and a 64-bit executable simply cannot run on 32-bit Windows. Rather than block delivery, I ran the pipeline locally each month and handed off the finished reports directly, prioritizing the business outcome over a blocked deployment. The proper fix is building the executable from a 32-bit Python environment (or targeting both architectures), which is on my list to implement.
+
 ## 💼 Business Value
 
 * Eliminated hours of manual monthly attendance processing
@@ -245,3 +253,4 @@ Aspiring Data Analyst — SQL, Python, PostgreSQL, Power BI
 ## 📄 License
 
 This repository is intended for educational and portfolio purposes.
+
